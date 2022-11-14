@@ -1,0 +1,13 @@
+{
+  "components": [
+    {
+      "name": "comp1",
+      "version": "1.2.3",
+      "skip": false
+    },
+    {
+      "name": "comp2",
+      "commit": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    }
+  ]
+}
